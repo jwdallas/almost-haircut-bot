@@ -1,0 +1,13 @@
+// Step 1. Fill this in with your own details.
+// Step 2. Save as 'access.json'.
+// Step 3. Delete these comments or the parser will throw chunks.
+// Step 4. ???
+// Step 5. Profit.
+{
+  "twitter": {
+    "consumer_key":         "",
+    "consumer_secret":      "",
+    "access_token":         "",
+    "access_token_secret":  ""
+  }
+}
